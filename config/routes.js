@@ -21,7 +21,7 @@ module.exports.routes = {
 
   '/': { view: 'pages/homepage' },
   '/bourbon': { view: 'pages/bourbon'},
-  '/test': 'BourbonController.all'
+  '/all': 'BourbonController.all'
 
   /***************************************************************************
   *                                                                          *
